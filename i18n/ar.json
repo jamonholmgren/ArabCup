@@ -1,0 +1,995 @@
+{
+  "common": {
+    "first-name": "الاسم",
+    "last-name": "الشهرة",
+    "position": "المركز",
+    "age": "العمر",
+    "number": "الرقم",
+    "club": "النادي",
+    "club-name": "اسم النادي",
+    "team-name": "اسم الفريق",
+    "image-url": "رابط الصورة",
+    "url": "عنوان",
+    "website-url": "رابط الموقع",
+    "nicknames": "اسماء مستعارة",
+    "logo-url": "رابط الشعار",
+    "players-of": "{{teamName}} منتخب",
+    "teams": "الفريق",
+    "player-number-position": "# {{number}} - {{position}}"
+  },
+  "teams": [
+    {
+      "tid": 43843,
+      "name": "الجزائر",
+      "websiteUrl": "https://www.faf.dz",
+      "nicknames": ["الأفناك", "محاربي الصحراء", "الخُضر"],
+      "logoUrl": "https://dsg-images.com/clubs/100x100/640.png"
+    },
+    {
+      "tid": 43825,
+      "name": "لبنان",
+      "websiteUrl": "https://www.the-lfa.com",
+      "nicknames": ["رجال الأرز"],
+      "logoUrl": "https://dsg-images.com/clubs/100x100/16452.png"
+    },
+    {
+      "tid": 43989,
+      "name": "فلسطين",
+      "websiteUrl": "http://www.pfa.ps",
+      "nicknames": ["الفدائيون", "الفرسان", "أسود كنعان"],
+      "logoUrl": "https://dsg-images.com/clubs/100x100/16447.png"
+    }
+  ],
+  "players": [
+    {
+      "pid": "zeghba-43843-1",
+      "tid": 43843,
+      "firstName": "مصطفى ",
+      "lastName": "زغبا ",
+      "age": "۳۱",
+      "club": {
+        "name": "ضمك",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۱",
+      "url": "https://dsg-images.com/players/150x150/76511.png"
+    },
+    {
+      "pid": "bouguerra-43843-2",
+      "tid": 43843,
+      "firstName": "ايمن",
+      "lastName": "بو غرة",
+      "age": "۲٤",
+      "club": {
+        "name": "نادي أتليتيك بارادو",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مدافع",
+      "number": "۲",
+      "url": "https://dsg-images.com/players/150x150/218066.png"
+    },
+    {
+      "pid": "benayada-43843-3",
+      "tid": 43843,
+      "firstName": "حسين",
+      "lastName": "بن ايادا",
+      "age": "۲۹",
+      "club": {
+        "name": "النجم الرياضي الساحلي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مدافع",
+      "number": "۳",
+      "url": "https://dsg-images.com/players/150x150/51393.png"
+    },
+    {
+      "pid": "benlamri-43843-4",
+      "tid": 43843,
+      "firstName": "دجاميل",
+      "lastName": "بن لمري",
+      "age": "۳۱",
+      "club": {
+        "name": "نادي قطر الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1228.png"
+      },
+      "position": "مدافع",
+      "number": "٤",
+      "url": "https://dsg-images.com/players/150x150/53347.png"
+    },
+    {
+      "pid": "tahrat-43843-5",
+      "tid": 43843,
+      "firstName": "مهدي",
+      "lastName": "طهران",
+      "age": "۳۱",
+      "club": {
+        "name": "نادي الغرافة الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1225.png"
+      },
+      "position": "مدافع",
+      "number": "٥",
+      "url": "https://dsg-images.com/players/150x150/87991.png"
+    },
+    {
+      "pid": "titraoui-43843-6",
+      "tid": 43843,
+      "firstName": "ياسين",
+      "lastName": "ططراوي",
+      "age": "۱۸",
+      "club": {
+        "name": "نادي أتليتيك بارادو",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مهاجم",
+      "number": "٦",
+      "url": "https://dsg-images.com/players/150x150/499192.png"
+    },
+    {
+      "pid": "meziani-43843-7",
+      "tid": 43843,
+      "firstName": "طيب",
+      "lastName": "ميزاني",
+      "age": "۲٥",
+      "club": {
+        "name": "النجم الرياضي الساحلي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مهاجم",
+      "number": "۷",
+      "url": "https://dsg-images.com/players/150x150/188789.png"
+    },
+    {
+      "pid": "sayoud-43843-8",
+      "tid": 43843,
+      "firstName": "امير",
+      "lastName": "سيود",
+      "age": "۳۱",
+      "club": {
+        "name": "نادي الطائي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1274.png"
+      },
+      "position": "مهاجم",
+      "number": "۸",
+      "url": "https://dsg-images.com/players/150x150/75118.png"
+    },
+    {
+      "pid": "bounedjah-43843-9",
+      "tid": 43843,
+      "firstName": "بغداد",
+      "lastName": "بو نهجا",
+      "age": "۳۰",
+      "club": {
+        "name": "نادي السد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1231.png"
+      },
+      "position": "مهاجم",
+      "number": "۹",
+      "url": "https://dsg-images.com/players/150x150/68009.png"
+    },
+    {
+      "pid": "belaili-43843-10",
+      "tid": 43843,
+      "firstName": "محمد يوسف",
+      "lastName": "بليلي",
+      "age": "۲۹",
+      "position": "مهاجم",
+      "number": "۱۰",
+      "url": "https://dsg-images.com/players/150x150/15541.png"
+    },
+    {
+      "pid": "brahimi-43843-11",
+      "tid": 43843,
+      "firstName": "ياسين",
+      "lastName": "ابراهيمي",
+      "age": "۳۱",
+      "club": {
+        "name": "نادي الريان الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1226.png"
+      },
+      "position": "مهاجم",
+      "number": "۱۱",
+      "url": "https://dsg-images.com/players/150x150/5701.png"
+    },
+    {
+      "pid": "tougai-43843-12",
+      "tid": 43843,
+      "firstName": "محمد",
+      "lastName": "امين توفي",
+      "age": "۲۱",
+      "club": {
+        "name": "الترجي الرياضي التونسي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": "۱۲",
+      "url": "https://dsg-images.com/players/150x150/127269.png"
+    },
+    {
+      "pid": "zerrouki-43843-13",
+      "tid": 43843,
+      "firstName": "مروان",
+      "lastName": "زروقي",
+      "age": "۲۰",
+      "club": {
+        "name": "نادي أتليتيك بارادو",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "مهاجم",
+      "number": "۱۳",
+      "url": "https://dsg-images.com/players/150x150/245572.png"
+    },
+    {
+      "pid": "bendebka-43843-14",
+      "tid": 43843,
+      "firstName": "صفيان",
+      "lastName": "بن لبقا",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي الفتح الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1264.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱٤",
+      "url": "https://dsg-images.com/players/150x150/75116.png"
+    },
+    {
+      "pid": "soudani-43843-15",
+      "tid": 43843,
+      "firstName": "العربي هلال",
+      "lastName": "سوداني",
+      "age": "۳٤",
+      "club": {
+        "name": "ضمك",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16422.png"
+      },
+      "position": "مهاجم",
+      "number": "۱٥",
+      "url": "https://dsg-images.com/players/150x150/11417.png"
+    },
+    {
+      "pid": "medjadel-43843-16",
+      "tid": 43843,
+      "firstName": "عبد الرحمن",
+      "lastName": "مدجادل ",
+      "age": "۲۳",
+      "club": {
+        "name": "نادي أتليتيك بارادو",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17228.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۱٦",
+      "url": "https://dsg-images.com/players/150x150/435744.png"
+    },
+    {
+      "pid": "draoui-43843-17",
+      "tid": 43843,
+      "firstName": "زكريا",
+      "lastName": "ضراوة",
+      "age": "۲۷",
+      "club": {
+        "name": "الشّباب الرّياضيّ لبلوزداد",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱۷",
+      "url": "https://dsg-images.com/players/150x150/76484.png"
+    },
+    {
+      "pid": "mrezigue-43843-18",
+      "tid": 43843,
+      "firstName": "حسام",
+      "lastName": "مريزيك الدين",
+      "age": "۲۱",
+      "club": {
+        "name": "الشّباب الرّياضيّ لبلوزداد",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17210.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱۸",
+      "url": "https://dsg-images.com/players/150x150/439066.png"
+    },
+    {
+      "pid": "bedrane-43843-19",
+      "tid": 43843,
+      "firstName": "عبد القادر",
+      "lastName": "بدران",
+      "age": "۲۹",
+      "club": {
+        "name": "الترجي الرياضي التونسي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": "۱۹",
+      "url": "https://dsg-images.com/players/150x150/76295.png"
+    },
+    {
+      "pid": "cheti-43843-20",
+      "tid": 43843,
+      "firstName": "الياس",
+      "lastName": "شتي ",
+      "age": "۲٦",
+      "club": {
+        "name": "الترجي الرياضي التونسي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1063.png"
+      },
+      "position": "مدافع",
+      "number": "۲۰",
+      "url": "https://dsg-images.com/players/150x150/217774.png"
+    },
+    {
+      "pid": "abdellaoui-43843-21",
+      "tid": 43843,
+      "firstName": "ايوب",
+      "lastName": "عبد اللاوي",
+      "age": "۲۸",
+      "club": {
+        "name": "نادي الاتفاق لكرة القدم",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
+      },
+      "position": "مدافع",
+      "number": "۲۱",
+      "url": "https://dsg-images.com/players/150x150/60304.png"
+    },
+    {
+      "pid": "boutmene-43843-22",
+      "tid": 43843,
+      "firstName": "زين الدين",
+      "lastName": "بوتمين",
+      "age": "۲۱",
+      "club": {
+        "name": "النجم الرياضي الساحلي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1064.png"
+      },
+      "position": "مهاجم",
+      "number": "۲۲",
+      "url": "https://dsg-images.com/players/150x150/317549.png"
+    },
+    {
+      "pid": "mbolhi-43843-23",
+      "tid": 43843,
+      "firstName": "رائس ",
+      "lastName": "مبولحي ",
+      "age": "۳٥",
+      "club": {
+        "name": "نادي الاتفاق لكرة القدم",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1258.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۲۳",
+      "url": "https://dsg-images.com/players/150x150/6137.png"
+    },
+    {
+      "pid": "al-douaihy-43825-1",
+      "tid": 43825,
+      "firstName": "انطوان",
+      "lastName": "الدويهي ",
+      "age": "۲۲",
+      "club": {
+        "name": "نادي السلام الرياضي زغرتا",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16385.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۱",
+      "url": "https://dsg-images.com/players/150x150/223301.png"
+    },
+    {
+      "pid": "el-dor-43825-2",
+      "tid": 43825,
+      "firstName": "حسين ",
+      "lastName": "الدر ",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي الأنصار الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "مدافع ",
+      "number": "۲",
+      "url": "https://dsg-images.com/players/150x150/95440.png"
+    },
+    {
+      "pid": "sabra-43825-3",
+      "tid": 43825,
+      "firstName": "ماهر",
+      "lastName": "صبرا",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي النجمة الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "مدافع ",
+      "number": "۳",
+      "url": "https://dsg-images.com/players/150x150/56372.png"
+    },
+    {
+      "pid": "mansour-43825-4",
+      "tid": 43825,
+      "firstName": "نور",
+      "lastName": "منصور ",
+      "age": "۳۲",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "مدافع ",
+      "number": "٤",
+      "url": "https://dsg-images.com/players/150x150/65002.png"
+    },
+    {
+      "pid": "ayoub-43825-5",
+      "tid": 43825,
+      "firstName": "جهاد ",
+      "lastName": "ايوب ",
+      "age": "۲٦",
+      "club": {
+        "name": "نادي الأنصار الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "خط الوسط",
+      "number": "٥",
+      "url": "https://dsg-images.com/players/150x150/383193.png"
+    },
+    {
+      "pid": "dhaini-43825-6",
+      "tid": 43825,
+      "firstName": "محمد علي",
+      "lastName": "دهيني ",
+      "age": "۲۷",
+      "club": {
+        "name": "Trelleborgs FF",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1296.png"
+      },
+      "position": "خط الوسط",
+      "number": "٦",
+      "url": "https://dsg-images.com/players/150x150/204503.png"
+    },
+    {
+      "pid": "Antar-43825-7",
+      "tid": 43825,
+      "firstName": "فاضل ",
+      "lastName": "عنتر ",
+      "age": "۲٦",
+      "club": {
+        "name": "نادي شباب الساحل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "مهاجم ",
+      "number": "۷",
+      "url": "https://dsg-images.com/players/150x150/436772.png"
+    },
+    {
+      "pid": "zein-43825-8",
+      "tid": 43825,
+      "firstName": "مهدي",
+      "lastName": "زين",
+      "age": "۲۱",
+      "club": {
+        "name": "نادي النجمة الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "خط وسط",
+      "number": "۸",
+      "url": "https://dsg-images.com/players/150x150/140519.png"
+    },
+    {
+      "pid": "al-helwe-43825-9",
+      "tid": 43825,
+      "firstName": "هلال",
+      "lastName": "الحلوة ",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "مهاجم",
+      "number": "۹",
+      "url": "https://dsg-images.com/players/150x150/82230.png"
+    },
+    {
+      "pid": "haidar-43825-10",
+      "tid": 43825,
+      "firstName": "محمد ",
+      "lastName": "حيدر",
+      "age": "۳۲",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱۰",
+      "url": "https://dsg-images.com/players/150x150/17960.png"
+    },
+    {
+      "pid": "awada-43825-11",
+      "tid": 43825,
+      "firstName": "حسين ",
+      "lastName": "عواضة ",
+      "age": "۲۱",
+      "club": {
+        "name": "نادي شباب البرج الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/33995.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱۱",
+      "url": "https://dsg-images.com/players/150x150/306067.png"
+    },
+    {
+      "pid": "melki-43825-12",
+      "tid": 43825,
+      "firstName": "روبير الكسندر",
+      "lastName": "ملكي",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي الشحانية الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14312.png"
+      },
+      "position": "مدافع",
+      "number": "۱۲",
+      "url": "https://dsg-images.com/players/150x150/28059.png"
+    },
+    {
+      "pid": "melki-43825-13",
+      "tid": 43825,
+      "firstName": "جورج فيلكس",
+      "lastName": "ملكي",
+      "age": "۲۷",
+      "club": {
+        "name": "AFC Eskilstuna",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/19841.png"
+      },
+      "position": "خط الوسط\n",
+      "number": "۱۳",
+      "url": "https://dsg-images.com/players/150x150/28070.png"
+    },
+    {
+      "pid": "matar-43825-14",
+      "tid": 43825,
+      "firstName": "نادر",
+      "lastName": "مطر",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي معيذر الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/2128.png"
+      },
+      "position": "خط الوسط\n",
+      "number": "۱٤",
+      "url": "https://dsg-images.com/players/150x150/170224.png"
+    },
+    {
+      "pid": "shour-43825-15",
+      "tid": 43825,
+      "firstName": "وليد",
+      "lastName": "شور",
+      "age": "۲٥",
+      "club": {
+        "name": "نادي شباب الساحل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "خط الوسط",
+      "number": "۱٥",
+      "url": "https://dsg-images.com/players/150x150/345400.png"
+    },
+    {
+      "pid": "chaitou-43825-16",
+      "tid": 43825,
+      "firstName": "حسان",
+      "lastName": "شعيتو ",
+      "age": "۳۰",
+      "club": {
+        "name": "نادي الأنصار الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16373.png"
+      },
+      "position": "مدافع",
+      "number": "۱٦",
+      "url": "https://dsg-images.com/players/150x150/237344.png"
+    },
+    {
+      "pid": "tahan-43825-17",
+      "tid": 43825,
+      "firstName": "محمد",
+      "lastName": "طحان",
+      "age": "۳۳",
+      "club": {
+        "name": "نادي الصفاء الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16377.png"
+      },
+      "position": "مدافع",
+      "number": "۱۷",
+      "url": "https://dsg-images.com/players/150x150/65090.png"
+    },
+    {
+      "pid": "el-zein-43825-18",
+      "tid": 43825,
+      "firstName": "قاسم",
+      "lastName": "الزين",
+      "age": "۳۱",
+      "club": {
+        "name": "نادي النجمة الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "مدافع",
+      "number": "۱۸",
+      "url": "https://dsg-images.com/players/150x150/56362.png"
+    },
+    {
+      "pid": "farran-43825-19",
+      "tid": 43825,
+      "firstName": "زين",
+      "lastName": "فران ",
+      "age": "۲۲",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۹",
+      "url": "https://dsg-images.com/players/150x150/436784.png"
+    },
+    {
+      "pid": "ataya-43825-20",
+      "tid": 43825,
+      "firstName": "ربيع",
+      "lastName": "عطايا",
+      "age": "۳۲",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "خط وسط",
+      "number": "۲۰",
+      "url": "https://dsg-images.com/players/150x150/65007.png"
+    },
+    {
+      "pid": "matar-43825-21",
+      "tid": 43825,
+      "firstName": "مصطفى",
+      "lastName": "مطر",
+      "age": "۲٦",
+      "club": {
+        "name": "نادي العهد الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16378.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۲۱",
+      "url": "https://dsg-images.com/players/150x150/55022.png"
+    },
+    {
+      "pid": "assi-43825-22",
+      "tid": 43825,
+      "firstName": "عباس",
+      "lastName": "عاصي",
+      "age": "۲٦",
+      "club": {
+        "name": "نادي شباب الساحل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16381.png"
+      },
+      "position": "مدافع",
+      "number": "۲۲",
+      "url": "https://dsg-images.com/players/150x150/193920.png"
+    },
+    {
+      "pid": "sabeh-43825-23",
+      "tid": 43825,
+      "firstName": "علي",
+      "lastName": "صابح ",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي النجمة الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/16376.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۲۳",
+      "url": "https://dsg-images.com/players/150x150/56379.png"
+    },
+    {
+      "pid": "shaqfa-43989-1",
+      "tid": 43989,
+      "firstName": "عبد الله",
+      "lastName": "شقفة ",
+      "age": "۳۰",
+      "club": {
+        "name": "نادي شباب رفح الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/22585.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۱",
+      "url": "https://dsg-images.com/players/150x150/527264.png"
+    },
+    {
+      "pid": "khalil-43989-2",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "خليل",
+      "age": "۲۳",
+      "position": "مدافع ",
+      "number": "۲",
+      "url": "https://dsg-images.com/players/150x150/120604.png"
+    },
+    {
+      "pid": "rashid-43989-3",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "رشيد",
+      "age": "۲٦",
+      "club": {
+        "name": "Persib Bandung",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18090.png"
+      },
+      "position": "خط الوسط",
+      "number": "۳",
+      "url": "https://dsg-images.com/players/150x150/195069.png"
+    },
+    {
+      "pid": "hamed-43989-4",
+      "tid": 43989,
+      "firstName": "ياسر",
+      "lastName": "حامد",
+      "age": "۲٤",
+      "position": "مدافع",
+      "number": "٤",
+      "url": "https://dsg-images.com/players/150x150/333528.png"
+    },
+    {
+      "pid": "saleh-43989-5",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "",
+      "age": "۲۸",
+      "position": "مدافع",
+      "number": "٥",
+      "url": "https://dsg-images.com/players/150x150/105156.png"
+    },
+    {
+      "pid": "kharoub-43989-6",
+      "tid": 43989,
+      "firstName": "عدي ",
+      "lastName": "خاروب ",
+      "age": "۲۸",
+      "club": {
+        "name": "نادي شباب الخليل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط الوسط",
+      "number": "٦",
+      "url": "https://dsg-images.com/players/150x150/109996.png"
+    },
+    {
+      "pid": "salem-43989-7",
+      "tid": 43989,
+      "firstName": "خالد",
+      "lastName": "سالم",
+      "age": "۳۲",
+      "club": {
+        "name": "نادي الحد الرياضي الثقافي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/13998.png"
+      },
+      "position": "مهاجم",
+      "number": "۷",
+      "url": "https://dsg-images.com/players/150x150/46666.png"
+    },
+    {
+      "pid": "yamin-43989-8",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "يمين",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي هلال القدس",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "خط وسط",
+      "number": "۸",
+      "url": "https://dsg-images.com/players/150x150/87101.png"
+    },
+    {
+      "pid": "seyam-43989-9",
+      "tid": 43989,
+      "firstName": "تامر ",
+      "lastName": "سيام",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي شباب الخليل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط وسط",
+      "number": "۹",
+      "url": "https://dsg-images.com/players/150x150/62604.png"
+    },
+    {
+      "pid": "abu-habib-43989-10",
+      "tid": 43989,
+      "firstName": "عبد الحميد",
+      "lastName": "ابو حبيب",
+      "age": "۳۲",
+      "club": {
+        "name": "مركز شباب الأمعري",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18004.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۰",
+      "url": "https://dsg-images.com/players/150x150/46673.png"
+    },
+    {
+      "pid": "kharoub-43989-11",
+      "tid": 43989,
+      "firstName": "ليث",
+      "lastName": "خاروب",
+      "age": "۳۰",
+      "club": {
+        "name": "مركز شباب بلاطة",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۱",
+      "url": "https://dsg-images.com/players/150x150/191596.png"
+    },
+    {
+      "pid": "Eid-43989-12",
+      "tid": 43989,
+      "firstName": "محمود",
+      "lastName": "عيد",
+      "age": "۲۸",
+      "club": {
+        "name": "نادي المحرق الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14005.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۲",
+      "url": "https://dsg-images.com/players/150x150/51466.png"
+    },
+    {
+      "pid": "abu-warda-43989-13",
+      "tid": 43989,
+      "firstName": "محمود",
+      "lastName": "ابو وردة",
+      "age": "۲٦",
+      "club": {
+        "name": "مركز شباب بلاطة",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۳",
+      "url": "https://dsg-images.com/players/150x150/58978.png"
+    },
+    {
+      "pid": "iwaiwi-43989-14",
+      "tid": 43989,
+      "firstName": "يزان",
+      "lastName": "اويوي ",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي شباب الخليل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "خط وسط",
+      "number": "۱٤",
+      "url": "https://dsg-images.com/players/150x150/102158.png"
+    },
+    {
+      "pid": "al-bahdari-43989-15",
+      "tid": 43989,
+      "firstName": "عبد اللطيف",
+      "lastName": "البحدراني ",
+      "age": "۳۷",
+      "club": {
+        "name": "مركز شباب بلاطة",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "مدافع",
+      "number": "۱٥",
+      "url": "https://dsg-images.com/players/150x150/46664.png"
+    },
+    {
+      "pid": "kaddoura-43989-16",
+      "tid": 43989,
+      "firstName": "عمر",
+      "lastName": "قدورة ",
+      "age": "۲۷",
+      "club": {
+        "name": "Landskrona BoIS",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/1279.png"
+      },
+      "position": "حارس مرمى ",
+      "number": "۱٦",
+      "url": "https://dsg-images.com/players/150x150/20648.png"
+    },
+    {
+      "pid": "Adawi-43989-17",
+      "tid": 43989,
+      "firstName": "علي",
+      "lastName": "عدوي ",
+      "age": "۲۹",
+      "club": {
+        "name": "نادي شباب الظاهرية الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18003.png"
+      },
+      "position": "خط وسط",
+      "number": "۱۷",
+      "url": "https://dsg-images.com/players/150x150/232174.png"
+    },
+    {
+      "pid": "salim-43989-18",
+      "tid": 43989,
+      "firstName": "موسى",
+      "lastName": "سليم",
+      "age": "۲۷",
+      "club": {
+        "name": "نادي شباب الخليل الرياضي",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18005.png"
+      },
+      "position": "مدافع",
+      "number": "۱۸",
+      "url": "https://dsg-images.com/players/150x150/268324.png"
+    },
+    {
+      "pid": "dahamshi-43989-19",
+      "tid": 43989,
+      "firstName": "ربال ",
+      "lastName": "دهمشي ",
+      "age": "۱۹",
+      "club": {
+        "name": "نادي هلال القدس",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "مهاجم",
+      "number": "۱۹",
+      "url": "https://dsg-images.com/players/150x150/373024.png"
+    },
+    {
+      "pid": "salama-43989-20",
+      "tid": 43989,
+      "firstName": "عبد السلام",
+      "lastName": "سلامة ",
+      "age": "۲۳",
+      "club": {
+        "name": "نادي هلال القدس",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "مدافع",
+      "number": "۲۰",
+      "url": "https://dsg-images.com/players/150x150/527265.png"
+    },
+    {
+      "pid": "qatmish-43989-21",
+      "tid": 43989,
+      "firstName": "احمد ",
+      "lastName": "قطميش ",
+      "age": "۲۳",
+      "club": {
+        "name": "مركز شباب بلاطة",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/17995.png"
+      },
+      "position": "مدافع",
+      "number": "۲۱",
+      "url": "https://dsg-images.com/players/150x150/120617.png"
+    },
+    {
+      "pid": "ali-43989-22",
+      "tid": 43989,
+      "firstName": "توفيق ",
+      "lastName": "علي",
+      "age": "۳۱",
+      "club": {
+        "name": "مركز شباب الأمعري",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/18004.png"
+      },
+      "position": "حارس مرمى",
+      "number": "۲۲",
+      "url": "https://dsg-images.com/players/150x150/46665.png"
+    },
+    {
+      "pid": "darwish-43989-23",
+      "tid": 43989,
+      "firstName": "محمد",
+      "lastName": "درويش",
+      "age": "۳۰",
+      "club": {
+        "name": "نادي هلال القدس",
+        "imageUrl": "https://dsg-images.com/clubs/50x50/14414.png"
+      },
+      "position": "خط وسط",
+      "number": "۲۳",
+      "url": "https://dsg-images.com/players/150x150/109568.png"
+    }
+  ]
+}
