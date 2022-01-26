@@ -17,5 +17,5 @@ You can watch the entire 3-hour stream here on YouTube:
 ## Acknowledgements
 
 - Thanks to Mazen for sharing his knowledge!
-- Thanks to Mazen's mom (Zeina)
+- Thanks to Mazen's mom (Zeina) for helping translate!
 - Thanks to everyone in chat for their enthusiasm and help
